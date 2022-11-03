@@ -1,0 +1,98 @@
+﻿@model ProductModel
+<h1 class="h3">Ürün Düzenleme</h1>
+<hr />
+<form asp-controller="admin" asp-action="ProductEdit" method="post" enctype="multipart/form-data">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="row">
+
+        <div class="col-md-3">
+            <div class="card">
+                <input type="hidden" asp-for="ImageUrl" />
+                <img src="~/img/@Model.ImageUrl"/>
+                <div class="card-body">
+                <input type="file" name="file"/>   
+                </div>
+            </div>
+        </div>
+    <div class="col-md-5">
+   <input type="hidden" name="ProductId" value="@Model.ProductId"/>
+    <div class="form-group row mb-2">
+        <label class="col-sm-2 col-form-label"  asp-for="Name">Ürün Adı</label>
+        <div class="col-sm-10">
+            <input class="form-control" asp-for="Name"/>
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+    </div>
+     <div class="form-group row mb-2">
+        <label class="col-sm-2 col-form-label" asp-for="Url"></label>
+        <div class="col-sm-10">
+            <input class="form-control" asp-for="Url"/>
+            <span asp-validation-for="Url" class="text-danger"></span>
+
+        </div>
+    </div>
+     <div class="form-group row mb-2">
+        <label class="col-sm-2 col-form-label" asp-for="Marka"></label>
+        <div class="col-sm-10">
+            <input class="form-control" asp-for="Marka"/>
+            <span asp-validation-for="Marka" class="text-danger"></span>
+
+        </div>
+    </div>
+    <div class="form-group row mb-2">
+        <label class="col-sm-2 col-form-label" asp-for="Description">Özellikler</label>
+        <div class="col-sm-10">
+            <textarea class="form-control" rows="8" asp-for="Description"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group row mb-2">
+        <label class="col-sm-2 col-form-label" asp-for="Price">Fiyat</label>
+        <div class="col-sm-10">
+            <input class="form-control" asp-for="Price" />
+            <span asp-validation-for="Price" class="text-danger"></span>
+
+        </div>
+    </div>
+    <div class="form-group row mb-2">
+        <div class="col-sm-10 offset-sm-2">
+            <button type="submit" class="btn btn-primary">Güncelle</button>
+        </div>
+    </div>
+    
+
+</div>
+<div class="col-md-4">
+    @for (int i = 0; i < Model.SelectedCategories.Count; i++)
+            {
+                <input type="hidden" name="SelectedCategories[@i].CategoryId" value="@Model.SelectedCategories[@i].CategoryId">
+                <input type="hidden" name="SelectedCategories[@i].Name" value="@Model.SelectedCategories[@i].Name">
+
+            }
+    @foreach(var item in (List<CategoryEntity>)ViewBag.Categories)
+        {
+            <div class="form-check">
+              <input class="form-check-input" name="categoryId"type="checkbox" 
+              value="@item.CategoryId" id="category_@(item.CategoryId)" @(Model.SelectedCategories.Any(i=>i.CategoryId==item.CategoryId)?"checked":"")>
+              <label class="form-check-label" for="category_@(item.CategoryId)">
+               @item.Name
+              </label>
+            </div>
+        }
+        <hr />
+        <div class="custom-control custom-checkbox">
+            <input asp-for="IsApproved" type="checkbox" class="custom-control-input" />
+            <label asp-for="IsApproved" class="custom-control-label">Onaylı Ürün</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+            <input asp-for="IsHome" type="checkbox" class="custom-control-input" />
+            <label asp-for="IsHome" class="custom-control-label">Anasayfa Ürünü</label>
+        </div>
+    </div>
+</div>
+</form>
+@section Scripts{
+    
+    <script src="~/lib/jquery/jquery-validation/dist/jquery.validate.min.js"></script>    
+    <script src="~/lib/jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

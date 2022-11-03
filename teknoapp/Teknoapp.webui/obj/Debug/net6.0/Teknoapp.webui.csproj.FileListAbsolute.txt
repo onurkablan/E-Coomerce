@@ -1,0 +1,260 @@
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\appsettings.json
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.staticwebassets.runtime.json
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.exe
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.deps.json
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.runtimeconfig.json
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.pdb
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.csproj.AssemblyReference.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.RazorAssemblyInfo.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.RazorAssemblyInfo.cs
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Debug\net6.0\scopedcss\bundle\Teknoapp.webui.styles.css
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Debug\net6.0\refint\Teknoapp.webui.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.pdb
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.genruntimeconfig.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Debug\net6.0\ref\Teknoapp.webui.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.data.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.entity.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.data.pdb
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.entity.pdb
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.csproj.CopyComplete
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Humanizer.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.business.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.business.pdb
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Iyzipay.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\appsettings.Development.json
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\appsettings.json
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.staticwebassets.runtime.json
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.exe
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.deps.json
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.runtimeconfig.json
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.pdb
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Humanizer.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Iyzipay.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.business.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.data.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.entity.dll
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.business.pdb
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.data.pdb
+E:\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.entity.pdb
+E:\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.csproj.AssemblyReference.cache
+E:\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.GeneratedMSBuildEditorConfig.editorconfig
+E:\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.AssemblyInfoInputs.cache
+E:\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.AssemblyInfo.cs
+E:\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.csproj.CoreCompileInputs.cache
+E:\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.MvcApplicationPartsAssemblyInfo.cache
+E:\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.RazorAssemblyInfo.cache
+E:\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.RazorAssemblyInfo.cs
+E:\teknoapp\Teknoapp.webui\obj\Debug\net6.0\staticwebassets.build.json
+E:\teknoapp\Teknoapp.webui\obj\Debug\net6.0\staticwebassets.development.json
+E:\teknoapp\Teknoapp.webui\obj\Debug\net6.0\scopedcss\bundle\Teknoapp.webui.styles.css
+E:\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.csproj.CopyComplete
+E:\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.dll
+E:\teknoapp\Teknoapp.webui\obj\Debug\net6.0\refint\Teknoapp.webui.dll
+E:\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.pdb
+E:\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.genruntimeconfig.cache
+E:\teknoapp\Teknoapp.webui\obj\Debug\net6.0\ref\Teknoapp.webui.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\appsettings.Development.json
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\appsettings.json
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.staticwebassets.runtime.json
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.exe
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.deps.json
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.runtimeconfig.json
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.pdb
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Humanizer.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Iyzipay.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.business.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.data.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.entity.dll
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.business.pdb
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.data.pdb
+E:\ONUR\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.entity.pdb
+E:\ONUR\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.csproj.AssemblyReference.cache
+E:\ONUR\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.GeneratedMSBuildEditorConfig.editorconfig
+E:\ONUR\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.AssemblyInfoInputs.cache
+E:\ONUR\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.AssemblyInfo.cs
+E:\ONUR\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.csproj.CoreCompileInputs.cache
+E:\ONUR\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.MvcApplicationPartsAssemblyInfo.cache
+E:\ONUR\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.RazorAssemblyInfo.cache
+E:\ONUR\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.RazorAssemblyInfo.cs
+E:\ONUR\teknoapp\Teknoapp.webui\obj\Debug\net6.0\staticwebassets.build.json
+E:\ONUR\teknoapp\Teknoapp.webui\obj\Debug\net6.0\staticwebassets.development.json
+E:\ONUR\teknoapp\Teknoapp.webui\obj\Debug\net6.0\scopedcss\bundle\Teknoapp.webui.styles.css
+E:\ONUR\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.csproj.CopyComplete
+E:\ONUR\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.dll
+E:\ONUR\teknoapp\Teknoapp.webui\obj\Debug\net6.0\refint\Teknoapp.webui.dll
+E:\ONUR\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.pdb
+E:\ONUR\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.genruntimeconfig.cache
+E:\ONUR\teknoapp\Teknoapp.webui\obj\Debug\net6.0\ref\Teknoapp.webui.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\appsettings.json
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.staticwebassets.runtime.json
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.exe
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.deps.json
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.runtimeconfig.json
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.webui.pdb
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Humanizer.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Iyzipay.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.business.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.data.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.entity.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.business.pdb
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.data.pdb
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\bin\Debug\net6.0\Teknoapp.entity.pdb
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.csproj.AssemblyReference.cache
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.RazorAssemblyInfo.cache
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.RazorAssemblyInfo.cs
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\obj\Debug\net6.0\scopedcss\bundle\Teknoapp.webui.styles.css
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.csproj.CopyComplete
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\obj\Debug\net6.0\refint\Teknoapp.webui.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.pdb
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\obj\Debug\net6.0\Teknoapp.webui.genruntimeconfig.cache
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.webui\obj\Debug\net6.0\ref\Teknoapp.webui.dll

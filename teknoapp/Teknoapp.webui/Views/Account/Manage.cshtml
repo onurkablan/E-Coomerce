@@ -1,0 +1,47 @@
+﻿@using Teknoapp.webui.Models
+@model UserDetailsModel
+<h1 class="h3">Kullanıcı Bilgileri</h1>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+         <form asp-controller="Account" asp-action="Manage">
+    <div class="row">
+    <div class="col-md-8">
+@*     <input type="hidden" name="UserId" value="@Model.UserId"/>*@
+    <div class="form-group row mb-2">
+        <label class="col-sm-2 col-form-label"  asp-for="FirstName">İsim:</label>
+        <div class="col-sm-10">
+            <label class="col-sm-2 col-form-label">Onur</label>
+        </div>
+    </div>
+    <div class="form-group row mb-2">
+        <label class="col-sm-2 col-form-label"  asp-for="LastName">Soyisim:</label>
+        <div class="col-sm-10">
+            <label class="col-sm-2 col-form-label">Kablan</label>
+        </div>
+    </div>
+    <div class="form-group row mb-2">
+        <label class="col-sm-2 col-form-label"  asp-for="UserName">Kullanıcı Adı:</label>
+        <div class="col-sm-10">
+        <label class="col-sm-2 col-form-label">ok</label>
+        </div>
+    </div>
+    <div class="form-group row mb-2">
+        <label class="col-sm-2 col-form-label"  asp-for="Email">Email</label>
+        <div class="col-sm-10">
+        <label class="col-sm-2 col-form-label">ok@gmail.com</label>
+        </div>
+    </div>
+    <div class="form-group row mb-2">
+        <label class="col-sm-2 col-form-label">
+            <a href="~/orders">Siparişleriniz</a></label>
+        <div class="col-sm-10">
+        <label class="col-sm-2 col-form-label">
+            <a href="~/cart">Sepetiniz</a></label>
+        </div>
+    </div>
+</div>    
+    </div>
+    </form>
+</div>    
+</div>

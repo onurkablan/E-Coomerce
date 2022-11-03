@@ -1,0 +1,8 @@
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Release\net6.0\Teknoapp.webui.csproj.AssemblyReference.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Release\net6.0\Teknoapp.webui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Release\net6.0\Teknoapp.webui.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Release\net6.0\Teknoapp.webui.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Release\net6.0\Teknoapp.webui.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Release\net6.0\Teknoapp.webui.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Release\net6.0\Teknoapp.webui.RazorAssemblyInfo.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.webui\obj\Release\net6.0\Teknoapp.webui.RazorAssemblyInfo.cs

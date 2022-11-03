@@ -1,0 +1,77 @@
+﻿@model ProductListViewModel
+
+<h1>Yönetici Ürünler</h1> <a class=" d-flex btn btn-primary btn-sm justify-content-end  " href="/admin/products/create">Yeni Ürün Ekleme</a><hr /> 
+<div class="row">
+    <div class="col-md-12">
+        
+        <table class="table table-bordered mt-3 ">
+            <thead>
+                <tr>
+                    <td style="width:30px;">Id</td>
+                    <td style="width:100px;">Resim</td>
+                    <td>Ürün Adı</td>
+                    <td style="width:20px;">Marka</td>
+                    <td style="width:20px;">Fiyat</td>
+                    <td style="width:50px;">Anasayfa Ürünü</td>
+                    <td style="width:50px;">Onaylı Ürün</td>
+                    <td style="width:150px;"></td>
+
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Products.Count > 0)
+                {
+                    @foreach(var item in Model.Products)
+                {
+                    <tr>
+                     <td>@item.ProductId</td>
+                    <td><img src="~/img/@item.ImageUrl" width="80"></td>
+                    <td>@item.Name</td>
+                    <td>@item.Marka</td>
+                    <td>@item.Price</td>
+                    <td>
+                                @if (item.IsHome)
+                                {
+                                    <i style="color:green;"class="fa-solid fa-circle-check"></i>
+                                }
+                                else
+                                {
+                                    <i style="color:red;"class="fa-solid fa-circle-xmark"></i>              
+                                }
+                            </td>
+                    <td>
+                        @if (item.IsApproved)
+                                {
+                                    <i style="color:green;" class="fa-solid fa-circle-check"></i>
+                                }
+                                else
+                                {
+                                    <i style="color:red;" class="fa-solid fa-circle-xmark"></i>              
+                                }</td>
+
+                    <td>
+                        <a href="/admin/products/@item.ProductId" class="btn btn-success btn-sm mr-2">Düzenle</a>
+                        <form action="/admin/deleteproduct" method="post" style="display:inline;">
+                        <input type="hidden" name="productId" value="@item.ProductId">  
+                         <button type="submit" class="btn btn-danger btn-sm">Sil</button>    
+                    
+                    </form>
+                       
+                        
+                    </td>
+                    </tr>
+                    }
+
+                }
+                else
+                {
+                    <div class="alert alert-warning">
+                        <h3>No Products</h3>
+                    </div>
+                }
+
+                
+            </tbody>
+        </table>
+    </div>
+</div>

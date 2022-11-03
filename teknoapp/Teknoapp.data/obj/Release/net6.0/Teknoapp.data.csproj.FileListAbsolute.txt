@@ -1,0 +1,17 @@
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.data\bin\Release\net6.0\Teknoapp.data.deps.json
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.data\bin\Release\net6.0\Teknoapp.data.runtimeconfig.json
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.data\bin\Release\net6.0\Teknoapp.data.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.data\bin\Release\net6.0\Teknoapp.data.pdb
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.data\bin\Release\net6.0\Teknoapp.entity.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.data\bin\Release\net6.0\Teknoapp.entity.pdb
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.data\obj\Release\net6.0\Teknoapp.data.csproj.AssemblyReference.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.data\obj\Release\net6.0\Teknoapp.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.data\obj\Release\net6.0\Teknoapp.data.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.data\obj\Release\net6.0\Teknoapp.data.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.data\obj\Release\net6.0\Teknoapp.data.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.data\obj\Release\net6.0\Teknoapp.data.csproj.CopyComplete
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.data\obj\Release\net6.0\Teknoapp.data.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.data\obj\Release\net6.0\refint\Teknoapp.data.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.data\obj\Release\net6.0\Teknoapp.data.pdb
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.data\obj\Release\net6.0\Teknoapp.data.genruntimeconfig.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.data\obj\Release\net6.0\ref\Teknoapp.data.dll

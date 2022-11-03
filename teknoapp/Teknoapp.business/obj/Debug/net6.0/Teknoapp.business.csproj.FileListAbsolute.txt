@@ -1,0 +1,68 @@
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.business.deps.json
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.business.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.business.pdb
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.data.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.entity.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.data.pdb
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.entity.pdb
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.csproj.AssemblyReference.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.csproj.CopyComplete
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.business\obj\Debug\net6.0\refint\Teknoapp.business.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.pdb
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.business\obj\Debug\net6.0\ref\Teknoapp.business.dll
+E:\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.business.deps.json
+E:\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.business.dll
+E:\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.business.pdb
+E:\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.data.dll
+E:\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.entity.dll
+E:\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.data.pdb
+E:\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.entity.pdb
+E:\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.csproj.AssemblyReference.cache
+E:\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.GeneratedMSBuildEditorConfig.editorconfig
+E:\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.AssemblyInfoInputs.cache
+E:\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.AssemblyInfo.cs
+E:\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.csproj.CoreCompileInputs.cache
+E:\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.csproj.CopyComplete
+E:\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.dll
+E:\teknoapp\Teknoapp.business\obj\Debug\net6.0\refint\Teknoapp.business.dll
+E:\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.pdb
+E:\teknoapp\Teknoapp.business\obj\Debug\net6.0\ref\Teknoapp.business.dll
+E:\ONUR\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.business.deps.json
+E:\ONUR\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.business.dll
+E:\ONUR\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.business.pdb
+E:\ONUR\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.data.dll
+E:\ONUR\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.entity.dll
+E:\ONUR\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.data.pdb
+E:\ONUR\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.entity.pdb
+E:\ONUR\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.csproj.AssemblyReference.cache
+E:\ONUR\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.GeneratedMSBuildEditorConfig.editorconfig
+E:\ONUR\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.AssemblyInfoInputs.cache
+E:\ONUR\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.AssemblyInfo.cs
+E:\ONUR\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.csproj.CoreCompileInputs.cache
+E:\ONUR\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.csproj.CopyComplete
+E:\ONUR\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.dll
+E:\ONUR\teknoapp\Teknoapp.business\obj\Debug\net6.0\refint\Teknoapp.business.dll
+E:\ONUR\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.pdb
+E:\ONUR\teknoapp\Teknoapp.business\obj\Debug\net6.0\ref\Teknoapp.business.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.business.deps.json
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.business.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.business.pdb
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.data.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.entity.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.data.pdb
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.business\bin\Debug\net6.0\Teknoapp.entity.pdb
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.csproj.AssemblyReference.cache
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.csproj.CopyComplete
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.business\obj\Debug\net6.0\refint\Teknoapp.business.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.business\obj\Debug\net6.0\Teknoapp.business.pdb
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.business\obj\Debug\net6.0\ref\Teknoapp.business.dll

@@ -1,0 +1,43 @@
+﻿@model ProductEntity
+
+   <div class="card mb-3">
+    <div class="card-body">
+        <div class="row no-gutters">
+            <div class="col-md-3">
+                <img src="~/img/@Model.ImageUrl" class="img-fluid">
+            </div>
+            <div class="col-md-9">
+                <form method="post">
+                 <input type="hidden" name="ProductId" value="@Model.ProductId"/>
+                 <div class="form-group">
+        <label for="Name">Name</label>
+        <input type="text" value="@Model.Name"asp-for="Name" class="form-control" >
+    </div>
+    <div class="form-group">
+        <label for="Price">Price</label>
+        <input type="text" value="@Model.Price"asp-for="Price" class="form-control">
+        
+    </div>
+    <div class="form-group">
+        <label for="Description">Description</label>
+        <textarea asp-for="Description" value="@Model.Description"class="form-control"></textarea>
+    </div>
+    <div class="form-group">
+        <label for="ImageUrl">ImageUrl</label>
+        <input type="text" asp-for="ImageUrl" value="@Model.ImageUrl"class="form-control">     
+    </div>
+    @*<div class="form-group">
+        <label for="CategoryId">CategoryId</label>
+        <select asp-for="CategoryId" asp-items="@ViewBag.Categories"class="form-control">   
+            <option selected disabled>Seçiniz</option>
+            </select>
+
+    </div>*@
+    <button type="submit" class="btn btn-primary">Güncelle</button>
+</form>
+            
+            </div>
+        </div>
+    </div>
+</div>
+   

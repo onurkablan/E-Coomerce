@@ -1,0 +1,95 @@
+﻿
+<nav class="navbar navbar-expand-lg navbar-light bg-light ">
+  <a class="navbar-brand mx-5" href="/"><img src="~/img/teknoapplogo.png" /></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+             <li class="nav-item"></li>
+            
+               @if (User.IsInRole("Admin"))
+                {
+                    <li class="nav-item">
+                         <a class="nav-link" href="/admin/products">Yönetici Ürünler</a>
+                    </li>
+                    <li class="nav-item">
+                         <a class="nav-link" href="/admin/categories">Yönetici Kategoriler</a>
+                    </li>
+                    <li class="nav-item">
+                         <a class="nav-link" href="/admin/role/list">Yönetici Roller</a>
+                    </li>
+                    <li class="nav-item">
+                         <a class="nav-link" href="~/admin/user/list">Kullanıcılar</a>
+                    </li>
+                }
+                else
+                {
+                <li class="nav-item">
+                    <a class="nav-link" href="~/products/telefon"><img src="~/img/phone.svg"/>&nbsp;Telefon</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="~/products/elektronik"><img src="~/img/tv-sound.svg"/>&nbsp;Elektronik</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="~/products/bilgisayar"><img src="~/img/computer.svg"/>&nbsp;Bilgisayar</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="~/products/beyaz-esya"><img src="~/img/home-appliance.svg"/>Beyaz Eşya</a>
+                </li>
+                }
+                @if (User.Identity.IsAuthenticated)
+                {           
+                    <li class="nav-item">
+                        <a class="nav-link" href="/orders">Siparişler</a>
+                    </li>
+                     <li class="nav-item">
+                        <a class="nav-link" href="/cart"><i class="fas fa-shopping-cart"></i> Sepet</a>
+                    </li>
+                }
+                <div class="d-flex align-items-center">
+        </ul>
+        <ul class="navbar-nav ">
+                @if (User.Identity.IsAuthenticated)
+                {
+               
+                <li class="nav-item pl-1">
+                <a class="nav-link" href="~/account/manage"><i class="fa fa-user fa-fw mr-1"></i> @User.Identity.Name</a>
+               </li>
+               <li class="nav-item pl-1">
+               <a class="nav-link" href="~/account/logout"><i class="fa fa-sign-out fa-fw mr-1"></i> Çıkış Yap</a>
+               </li>
+                }
+                else
+                {
+               <li class="nav-item pl-1">
+                 <a class="nav-link" href="~/account/login"><i class="fa fa-sign-in fa-fw mr-1"></i> Giriş Yap</a>
+               </li>
+               <li class="nav-item pl-1">
+                <a class="nav-link" href="~/account/register"><i class="fa fa-user-plus fa-fw mr-1"></i> Kayıt Ol</a>
+               </li>
+               
+                }
+        </ul>
+
+
+<div class="dropdown">
+  <button class="btn btn-outline-dark dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Dil Seçeneği
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a class="dropdown-item" href="#" onclick="doGTranslate('tr|tr');return false;" translate="no">Türkçe</a>
+    <a class="dropdown-item"  href="#" onclick="doGTranslate('tr|en');return false;">İngilizce</a>
+    <a class="dropdown-item"  href="#" onclick="doGTranslate('tr|de');return false;">Almanca</a>
+    <a class="dropdown-item"  href="#" onclick="doGTranslate('tr|ru');return false;">Rusça</a>
+     <a class="dropdown-item"  href="#" onclick="doGTranslate('tr|fr');return false;">Fransızca</a>
+      <a class="dropdown-item"  href="#" onclick="doGTranslate('tr|ko');return false;">Korece</a>
+  </div>
+</div>
+
+
+        </div>
+</nav>
+
+@Html.Partial("_ceviri")

@@ -1,0 +1,221 @@
+﻿@model ProductListViewModel
+@section Styles{
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+
+<style>
+    .home-demo .item {
+        border-style:solid;
+        border-width:1px;
+        margin-right:0.5px;
+       
+}
+.courier {
+    background-color: #003177;
+    color: #fff;
+}
+.global-container {
+    box-sizing: border-box;
+    max-width: 100%;
+    width: 1366px;
+    margin: 0 auto;
+    padding: 0 15px;
+    position: relative;
+}
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.courier-item {
+    display: flex;
+    width: 100%;
+    padding: 70px 0;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;}
+    .courier-item__wrapper--first {
+    padding-right: 10px;
+}
+.courier-item__wrapper {
+    display: table-cell;
+    vertical-align: top;
+}
+.contact-box {
+    text-align: center;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+    padding: 2rem;
+    border-bottom: solid 3px #FFFFFF;
+    background-color:#edf3fb;
+    color:#000032;
+    height:220px;
+}
+
+.contact-box .cb-icon .fas {
+    font-size: 2.5rem;
+    text-align: center;
+    color: #000032;
+}
+
+.contact-box p {
+    margin: 1.5rem 0rem;
+}
+
+.contact-box h5 {
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 2rem;
+}
+
+.contact-box h5 a {
+    color: #1F71FA;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.contact-box h5 a:hover {
+    color: #3C42E5;
+    text-decoration: none;
+}
+</style>
+}
+@section MessageBox{
+    <div class="alert alert-primary text-center m-0">TeknoAPP'e Hoşgeldiniz!</div>
+}
+@await Html.PartialAsync("_slider")
+ <div class="container mt-3">
+@if(Model.Products.Count ==0)
+{
+    @await Html.PartialAsync("_noproduct")
+    
+}
+else
+{
+   <div class="row">
+         <div class="col-md-3">
+             @await Component.InvokeAsync("Categories")
+            <partial name="_search"/>
+         </div>
+        <div class="col-md-9">
+            <div class="row">
+        
+        @foreach(var product in Model.Products)
+        {
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+            @await Html.PartialAsync("_product",product)
+        </div>
+            }
+            </div>
+        </div>
+     </div>    
+  
+}
+<div class="home-demo mt-3">
+  <h3>Markalar</h3>
+  <div class="owl-carousel owl-theme">
+    <div class="item">
+      <a href="/search?q=apple"><img src="~/img/markalar/1.jpg" width="200px" height="125px"></img></a>
+    </div>
+    <div class="item">
+      <a href="/search?q=samsung"><img src="~/img/markalar/2.jpg" width="200px" height="125px"></img></a>
+    </div>
+    <div class="item">
+       <a href="/search?q=xiaomi"><img src="~/img/markalar/3.jpg" width="200px" height="125px"></img></a>
+    </div>
+    <div class="item">
+      <a href="/search?q=huawei"><img src="~/img/markalar/4.jpg" width="200px" height="125px"></img></a>
+    </div>
+    <div class="item">
+      <a href="/search?q=monster"><img src="~/img/markalar/5.jpg" width="200px" height="125px"></img></a>
+    </div>
+        <div class="item">
+      <a href="/search?q=lenova"><img src="~/img/markalar/6.jpg" width="200px" height="125px"></img></a>
+    </div>
+    <div class="item">
+      <a href="/search?q=asus"><img src="~/img/markalar/7.jpg" width="200px" height="125px"></img></a>
+    </div>
+    <div class="item">
+       <a href="/search?q=acer"><img src="~/img/markalar/8.jpg" width="200px" height="125px"></img></a>
+    </div>
+    <div class="item">
+      <a href="/search?q=sony"><img src="~/img/markalar/9.jpg" width="200px" height="125px"></img></a>
+    </div>
+    <div class="item">
+      <a href="/search?q=beko"><img src="~/img/markalar/10.jpg" width="200px" height="125px"></img></a>
+    </div>
+    <div class="item">
+      <a href="/search?q=lg"><img src="~/img/markalar/11.jpg" width="200px" height="125px"></img></a>
+    </div>
+    <div class="item">
+       <a href="/search?q=arçelik"><img src="~/img/markalar/12.jpg" width="200px" height="125px"></img></a>
+    </div>
+    <div class="item">
+      <a href="/search?q=philips"><img src="~/img/markalar/13.jpg" width="200px" height="125px"></img></a>
+    </div>
+    <div class="item">
+      <a href="/search?q=vestel"><img src="~/img/markalar/14.jpg" width="200px" height="125px"></img></a>
+    </div>
+    <div class="item">
+      <a href="/search?q=bosch"><img src="~/img/markalar/15.jpg" width="200px" height="125px"></img></a>
+    </div>
+</div>
+    </div>
+
+    <div class="container mt-5 mb-5">
+             <div class="row mb-3"> 
+
+                <div class="col-md-6 col-lg-3">
+                    <div class="contact-box">
+                        <span class="cb-icon"><img src="~/img/contact-box.png" /></span>
+                        <p>Mağazalarımız haftanın 7 günü 10:00 22:00 arasında hizmet vermektedir.</p>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="contact-box">
+                        <span class="cb-icon"><img src="~/img/contact-box-2.png" /></span>
+                        <p>Çağrı merkezimiz Haftaiçi 9:00 – 21:00 hafta sonu 10:00 17:00 saatleri arasında hizmet vermektedir.</p>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="contact-box">
+                        <span class="cb-icon"><img src="~/img/contact-box-3.png" /></span>
+                        <p>Teknoapp.com internet sitesinden 7 gün 24 saat satış hizmeti verilmektedir.</p>
+                    </div>
+                </div>
+            <div class="col-md-6 col-lg-3">
+                    <div class="contact-box">
+                        <span class="cb-icon"><img src="~/img/contact-box-4.png" /></span>
+                        <p>Satış sonrası destek hafta içi : 09:00 – 18:00 hafta sonu: 09:00 – 15:00 arasında hizmet vermektedir.</p>     
+                    </div>
+            </div>
+      </div>
+        </div>
+
+    @section Scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+   <script>
+$('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:10,
+    responsiveClass:true,
+    responsive:{
+        0:{
+            items:2,
+            nav:true
+        },
+        600:{
+            items:3,
+            nav:false
+        },
+        1000:{
+            items:4,
+            nav:true,
+            loop:false
+        }
+    }
+})
+</script>
+    }

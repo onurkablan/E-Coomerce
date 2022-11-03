@@ -1,0 +1,48 @@
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.entity\bin\Debug\net6.0\Teknoapp.entity.deps.json
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.entity\bin\Debug\net6.0\Teknoapp.entity.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.entity\bin\Debug\net6.0\Teknoapp.entity.pdb
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.csproj.AssemblyReference.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.entity\obj\Debug\net6.0\refint\Teknoapp.entity.dll
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.pdb
+C:\Users\onurk\OneDrive\Masaüstü\içecekler\teknoapp\Teknoapp.entity\obj\Debug\net6.0\ref\Teknoapp.entity.dll
+E:\teknoapp\Teknoapp.entity\bin\Debug\net6.0\Teknoapp.entity.deps.json
+E:\teknoapp\Teknoapp.entity\bin\Debug\net6.0\Teknoapp.entity.dll
+E:\teknoapp\Teknoapp.entity\bin\Debug\net6.0\Teknoapp.entity.pdb
+E:\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.csproj.AssemblyReference.cache
+E:\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.AssemblyInfoInputs.cache
+E:\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.AssemblyInfo.cs
+E:\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.csproj.CoreCompileInputs.cache
+E:\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.dll
+E:\teknoapp\Teknoapp.entity\obj\Debug\net6.0\refint\Teknoapp.entity.dll
+E:\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.pdb
+E:\teknoapp\Teknoapp.entity\obj\Debug\net6.0\ref\Teknoapp.entity.dll
+E:\ONUR\teknoapp\Teknoapp.entity\bin\Debug\net6.0\Teknoapp.entity.deps.json
+E:\ONUR\teknoapp\Teknoapp.entity\bin\Debug\net6.0\Teknoapp.entity.dll
+E:\ONUR\teknoapp\Teknoapp.entity\bin\Debug\net6.0\Teknoapp.entity.pdb
+E:\ONUR\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.csproj.AssemblyReference.cache
+E:\ONUR\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\ONUR\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.AssemblyInfoInputs.cache
+E:\ONUR\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.AssemblyInfo.cs
+E:\ONUR\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.csproj.CoreCompileInputs.cache
+E:\ONUR\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.dll
+E:\ONUR\teknoapp\Teknoapp.entity\obj\Debug\net6.0\refint\Teknoapp.entity.dll
+E:\ONUR\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.pdb
+E:\ONUR\teknoapp\Teknoapp.entity\obj\Debug\net6.0\ref\Teknoapp.entity.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.entity\bin\Debug\net6.0\Teknoapp.entity.deps.json
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.entity\bin\Debug\net6.0\Teknoapp.entity.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.entity\bin\Debug\net6.0\Teknoapp.entity.pdb
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.csproj.AssemblyReference.cache
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.entity\obj\Debug\net6.0\refint\Teknoapp.entity.dll
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.entity\obj\Debug\net6.0\Teknoapp.entity.pdb
+C:\Users\onurk\OneDrive\Masaüstü\staj en son\teknoapp\Teknoapp.entity\obj\Debug\net6.0\ref\Teknoapp.entity.dll

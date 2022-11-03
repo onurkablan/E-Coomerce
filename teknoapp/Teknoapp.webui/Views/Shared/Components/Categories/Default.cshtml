@@ -1,0 +1,13 @@
+﻿@model List<CategoryEntity>
+<div class="list-group">
+     
+     <a href="/tekno/list" class="list-group-item list-group-item-action">Tüm Ürünler</a>
+    
+     @foreach (var item in Model)
+    {
+        <a asp-controller="Tekno"
+        asp-action="List" 
+        asp-route-category="@item.Url" 
+        class="list-group-item list-group-item-action @(ViewBag.SelectedCategory == item.Url?"active":"" )">@item.Name</a>
+    }
+</div>   
